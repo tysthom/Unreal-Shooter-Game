@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Tyson/Documents/Unreal Projects/Tutorial/ShooterGame/Content/FirstPerson/Blueprints/BP_Target.uasset",
+				"C:/Users/Tyson/Documents/Unreal Projects/Tutorial/ShooterGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/ZM/D0ZI0UKYRIEMN4RIZYU8RS.uasset",
+				"C:/Users/Tyson/Documents/Unreal Projects/Tutorial/ShooterGame/Content/FirstPerson/Blueprints/GM_TargetGame.uasset",
+				"C:/Users/Tyson/Documents/Unreal Projects/Tutorial/ShooterGame/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/Tyson/Documents/Unreal Projects/Tutorial/ShooterGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/AV/0VA5Q1TSJEB5JWWG239LTM.uasset",
+				"C:/Users/Tyson/Documents/Unreal Projects/Tutorial/ShooterGame/Content/FirstPerson/Blueprints/WBP_UI.uasset",
+				"C:/Users/Tyson/Documents/Unreal Projects/Tutorial/ShooterGame/Content/FirstPerson/Blueprints/WBP_EndScreen.uasset",
+				"C:/Users/Tyson/Documents/Unreal Projects/Tutorial/ShooterGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Users/Tyson/Documents/Unreal Projects/Tutorial/ShooterGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/IY/1O2D9DAKR4PN9SWOVJBF4K.uasset",
+				"C:/Users/Tyson/Documents/Unreal Projects/Tutorial/ShooterGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/DG/A1SCEACE7NNO5BWADBKX4P.uasset",
+				"C:/Users/Tyson/Documents/Unreal Projects/ShooterGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+			]
+		}
+	]
+}
