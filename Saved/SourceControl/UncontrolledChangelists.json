@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Tyson/Documents/GitHub/Unreal-Shooter-Game/Content/FirstPerson/Blueprints/GM_TargetGame.uasset",
+				"C:/Users/Tyson/Documents/GitHub/Unreal-Shooter-Game/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Tyson/Documents/GitHub/Unreal-Shooter-Game/Content/FirstPerson/Blueprints/BP_Rifle.uasset",
+				"C:/Users/Tyson/Documents/GitHub/Unreal-Shooter-Game/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/6K/NNUTD5HIV3B0ABJI6OX8JA.uasset",
 				"C:/Users/Tyson/Documents/Unreal Projects/Tutorial/ShooterGame/Content/FirstPerson/Blueprints/BP_Target.uasset",
 				"C:/Users/Tyson/Documents/Unreal Projects/Tutorial/ShooterGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/ZM/D0ZI0UKYRIEMN4RIZYU8RS.uasset",
 				"C:/Users/Tyson/Documents/Unreal Projects/Tutorial/ShooterGame/Content/FirstPerson/Blueprints/GM_TargetGame.uasset",
